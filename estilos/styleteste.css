@@ -22,19 +22,19 @@ html {
 
 body {
     background: #c4c2c2 url(#) no-repeat;
-    background-size: cover;
-    background-position: center center;
+    /* background-size: cover; */
+    /* background-position: center center; */
 }
 
 header {
     background-color: beige ;
     border: 1px solid rgba(0, 0, 0, 0.212);
-    width: 100%;
+    /* width: 100%;
     min-height: 10px;
     padding-top: 0px;
     margin: auto;
     position: sticky;
-    top: 0px;
+    top: 0px; */
  }
 header h1 {
    padding: 10px; 
@@ -155,7 +155,7 @@ h3 {
     font-size: 20px;
 }
  figure {
-    text-align: ce;
+    text-align: center;
  }
 
  
